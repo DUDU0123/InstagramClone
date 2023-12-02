@@ -38,6 +38,7 @@
     }
 
     .sidebar-icon-text-div {
+        cursor: pointer;
         padding: 12px;
         align-items: center;
         display: flex;
