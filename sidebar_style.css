@@ -1,10 +1,10 @@
 @media only screen and (min-width: 1044px) {
     .left-sidebar {
+        width: 17%;
         padding-top: 25px;
         padding-left: 15px;
         border-width: 100px;
         display: flex;
-        flex: 1;
         flex-direction: column;
         justify-content: center;
         position: fixed;
@@ -41,6 +41,14 @@
         padding: 12px;
         align-items: center;
         display: flex;
+    }
+
+    .sidebar-icon-text-div:hover{
+        padding: 12px;
+        border-radius: 10px;
+        align-items: center;
+        display: flex;
+        background-color: rgba(231, 231, 231, 0.489);
     }
 
     .icon-list-div {
