@@ -42,7 +42,7 @@
     }
 }
 
-@media only screen and (max-width: 528px) {
+@media only screen and (max-width: 537px) {
     .body-part {
         margin-left: 150px;
         display: flex;
