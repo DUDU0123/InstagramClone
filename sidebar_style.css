@@ -16,6 +16,7 @@
     }
 
     .logo-text {
+        cursor: pointer;
         width: 120px;
     }
 
